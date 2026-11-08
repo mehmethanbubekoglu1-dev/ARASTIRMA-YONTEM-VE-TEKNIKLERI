@@ -41,3 +41,7 @@ Ardından &#39;Yapay Zeka Kullanım Süresi&#39; ve &#39;Ders Çalışma Süresi
 matematiksel korelasyon hesaplanır. Hesaplama sonucunda veriler bir Pandas tablosuna
 aktarılır, Matplotlib ile dağılım grafikleri oluşturulur ve sonuçlar karşılaştırmalı olarak
 sunulur.
+## Ekip katkıları
+| Ekip üyesi | Görev / Katkı |
+|---|---|
+| Mehmethan Bubekoğlu (361526034) | Veri hazırlama (CSV/JSON), hesaplama, grafikler, yorum, README ve GitHub yüklemesi 
